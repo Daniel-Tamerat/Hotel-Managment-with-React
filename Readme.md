@@ -1,6 +1,7 @@
 # IP_Final_Project
 Final project for internet programming course.
 Hotel Managment System designed by group members of the section N1
+Submitted to Instructor Erdey
 
 | Members Name      | Members ID    |
 | -------------     | ------------- |
